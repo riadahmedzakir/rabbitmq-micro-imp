@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DvXKjDi/kA407iTR0YxnNWdNwXkp8DoED8QvNk6sbFtIPdW2Chf8w6WjRR8KOVV+8UV1XEi006JJduIF01y6mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riad_\\Desktop\\micro-rabbit\\MicroRabbit\\MicroRabbit.Domain.Core\\MicroRabbit.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riad_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
