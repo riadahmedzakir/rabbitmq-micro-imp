@@ -4,4 +4,15 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Events\" />
+    <Folder Include="EventHandlers\" />
+    <Folder Include="Commands\" />
+    <Folder Include="CommandHandlers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MongoDB.Bson" Version="2.13.1" />
+  </ItemGroup>
+
 </Project>
