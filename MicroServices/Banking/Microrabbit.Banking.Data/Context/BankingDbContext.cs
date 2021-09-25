@@ -10,10 +10,10 @@ namespace Microrabbit.Banking.Data.Context
 {
     public class BankingDbContext : IBankingDbContext
     {
-        public BankingDbContext(string TenantId)
+        public BankingDbContext()
         {
-            MongoClient client = new MongoClient("localhost:27017");
-            IMongoDatabase database = client.GetDatabase("BankingDb");
+            MongoClient client = new MongoClient("mongodb://localhost:27017");
+            IMongoDatabase database = client.GetDatabase("BankingDB");
 
             Account = database.GetCollection<Account>("Account");
         }

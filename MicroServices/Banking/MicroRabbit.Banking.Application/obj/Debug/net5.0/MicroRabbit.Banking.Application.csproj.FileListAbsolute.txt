@@ -1,0 +1,15 @@
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Banking.Application.deps.json
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Banking.Application.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\bin\Debug\net5.0\ref\MicroRabbit.Banking.Application.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Banking.Application.pdb
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Banking.Domain.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\bin\Debug\net5.0\MicroRabbit.Banking.Domain.pdb
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.csproj.AssemblyReference.cache
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.AssemblyInfoInputs.cache
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.AssemblyInfo.cs
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.csproj.CoreCompileInputs.cache
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.csproj.CopyComplete
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\ref\MicroRabbit.Banking.Application.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\MicroRabbit.Banking.Application\obj\Debug\net5.0\MicroRabbit.Banking.Application.pdb
