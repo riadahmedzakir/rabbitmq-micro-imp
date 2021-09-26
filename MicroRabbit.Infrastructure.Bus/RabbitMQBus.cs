@@ -27,7 +27,7 @@ namespace MicroRabbit.Infrastructure.Bus
         }
         public void Publish<T>(T @event) where T : Event
         {
-            var factory = new ConnectionFactory() { HostName = "localhost" };
+            var factory = new ConnectionFactory() { HostName = "localhost", Port = 5672, UserName = "guest", Password = "guest" };
             using (var connection = factory.CreateConnection())
             using (var channel = connection.CreateModel())
             {

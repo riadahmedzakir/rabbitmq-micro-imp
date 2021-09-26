@@ -13,3 +13,5 @@ C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\Microrabbi
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\Microrabbit.Banking.Data\obj\Debug\net5.0\Microrabbit.Banking.Data.dll
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\Microrabbit.Banking.Data\obj\Debug\net5.0\ref\Microrabbit.Banking.Data.dll
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\Microrabbit.Banking.Data\obj\Debug\net5.0\Microrabbit.Banking.Data.pdb
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\Microrabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\Microservices\Banking\Microrabbit.Banking.Data\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb

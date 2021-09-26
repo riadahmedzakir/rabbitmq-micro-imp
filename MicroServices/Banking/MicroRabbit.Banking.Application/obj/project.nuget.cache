@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XRoM1fNoKXc0BnLo+VRMR9rHMvFOIoaOjDO+kEYjOHVcHcsccioNV0NIgOl+NcPCI93WxNpJ5SXSgq4Dq7pA1A==",
+  "dgSpecHash": "TE8NQ3XRrWwDDwxUDocvHBIQXTj8uEykV/TSqIxw4iEvBKrATIWlhllWbNsKXkxQ28aAefpj+aYuYxzRWg2uOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\riad_\\Desktop\\micro-rabbit\\MicroRabbit\\Microservices\\Banking\\MicroRabbit.Banking.Application\\MicroRabbit.Banking.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\riad_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\riad_\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
     "C:\\Users\\riad_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
