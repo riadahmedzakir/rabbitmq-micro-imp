@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YieDFxHm6+Tb7shcQPT0OHt3yvYD5RIoeWcQuPatej1hppg72Fd6DFmnS2o5R+it6gjbDD7+pFpkIVIgQ9+f7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riad_\\Desktop\\micro-rabbit\\MicroRabbit\\Microservices\\Transfer\\MircoRabbit.Transfer.Domain\\MircoRabbit.Transfer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riad_\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\riad_\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
+    "C:\\Users\\riad_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

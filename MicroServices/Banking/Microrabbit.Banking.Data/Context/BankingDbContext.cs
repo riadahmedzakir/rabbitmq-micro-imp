@@ -1,4 +1,4 @@
-﻿using MicroRabbit.Banking.Domain.Models;
+﻿using MicroRabbit.Entities;
 using MongoDB.Driver;
 using System;
 using System.Collections.Generic;

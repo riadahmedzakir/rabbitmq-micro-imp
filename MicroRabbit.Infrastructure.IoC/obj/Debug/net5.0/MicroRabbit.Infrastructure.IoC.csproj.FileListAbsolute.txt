@@ -21,3 +21,11 @@ C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\o
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\obj\Debug\net5.0\MicroRabbit.Infrastructure.IoC.dll
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\obj\Debug\net5.0\ref\MicroRabbit.Infrastructure.IoC.dll
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\obj\Debug\net5.0\MicroRabbit.Infrastructure.IoC.pdb
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\bin\Debug\net5.0\MircoRabbit.Transfer.Application.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\bin\Debug\net5.0\MircoRabbit.Transfer.Data.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\bin\Debug\net5.0\MircoRabbit.Transfer.Domain.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\bin\Debug\net5.0\MircoRabbit.Transfer.Application.pdb
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\bin\Debug\net5.0\MircoRabbit.Transfer.Data.pdb
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\bin\Debug\net5.0\MircoRabbit.Transfer.Domain.pdb
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\bin\Debug\net5.0\MicroRabbit.Entities.dll
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Infrastructure.IoC\bin\Debug\net5.0\MicroRabbit.Entities.pdb

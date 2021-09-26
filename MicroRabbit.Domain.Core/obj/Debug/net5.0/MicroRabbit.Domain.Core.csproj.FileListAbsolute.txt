@@ -2,7 +2,6 @@ C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debu
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net5.0\MicroRabbit.Domain.Core.dll
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net5.0\ref\MicroRabbit.Domain.Core.dll
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\bin\Debug\net5.0\MicroRabbit.Domain.Core.pdb
-C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.csproj.AssemblyReference.cache
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.AssemblyInfoInputs.cache
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.AssemblyInfo.cs
@@ -10,3 +9,4 @@ C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debu
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.dll
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\ref\MicroRabbit.Domain.Core.dll
 C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.pdb
+C:\Users\riad_\Desktop\micro-rabbit\MicroRabbit\MicroRabbit.Domain.Core\obj\Debug\net5.0\MicroRabbit.Domain.Core.csproj.AssemblyReference.cache

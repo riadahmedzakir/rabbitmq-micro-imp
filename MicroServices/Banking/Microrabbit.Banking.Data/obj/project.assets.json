@@ -182,6 +182,7 @@
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
           "MicroRabbit.Domain.Core": "1.0.0",
+          "MicroRabbit.Entities": "1.0.0",
           "MongoDB.Bson": "2.13.1"
         },
         "compile": {
@@ -202,6 +203,19 @@
         },
         "runtime": {
           "bin/placeholder/MicroRabbit.Domain.Core.dll": {}
+        }
+      },
+      "MicroRabbit.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "MongoDB.Bson": "2.13.1"
+        },
+        "compile": {
+          "bin/placeholder/MicroRabbit.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroRabbit.Entities.dll": {}
         }
       }
     }
@@ -505,6 +519,11 @@
       "type": "project",
       "path": "../../../MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj",
       "msbuildProject": "../../../MicroRabbit.Domain.Core/MicroRabbit.Domain.Core.csproj"
+    },
+    "MicroRabbit.Entities/1.0.0": {
+      "type": "project",
+      "path": "../../../Entities/MicroRabbit.Entities/MicroRabbit.Entities.csproj",
+      "msbuildProject": "../../../Entities/MicroRabbit.Entities/MicroRabbit.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {

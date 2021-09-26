@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QS7IGh0rum7dXc/6iYYj7GPeBIo9NaA5OJaE5iCpOzgSQ3qdMQwRI3zaJ3kZ4oIUqFotfl0diF2GRNWdvpZ1Bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\riad_\\Desktop\\micro-rabbit\\MicroRabbit\\Entities\\MicroRabbit.Entities\\MicroRabbit.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\riad_\\.nuget\\packages\\mongodb.bson\\2.13.1\\mongodb.bson.2.13.1.nupkg.sha512",
+    "C:\\Users\\riad_\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,6 +1,6 @@
 ﻿using MicroRabbit.Banking.Application.Interfaces;
 using MicroRabbit.Banking.Application.Models;
-using MicroRabbit.Banking.Domain.Models;
+using MicroRabbit.Entities;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
